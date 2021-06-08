@@ -9,5 +9,12 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "Remapt",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e5ca1c6f393f4e69af468af17ff6adbf"
+		}
 	]
 }
